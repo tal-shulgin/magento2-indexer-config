@@ -48,3 +48,4 @@ Copy desired configuration to your module di.xml. Remember to add dependency on 
 `composer require lucid-modules/module-indexer-config`
 
 test git push
+test git push
